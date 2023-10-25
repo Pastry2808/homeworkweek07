@@ -1,0 +1,18 @@
+
+a
+java:S1192"FDefine a constant instead of duplicating this literal "\"|  " 4 times.(—²±±øÿÿÿÿ
+{
+java:S1192"`Define a constant instead of duplicating this literal "\"|                         |\"" 5 times.(Ïñ†Áþÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ìòþÔ
+E	java:S106"+Replace this use of System.out by a logger.(ˆÕâÁÿÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(Ïñ†Áþÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(¿¶¡û
+E	java:S106"+Replace this use of System.out by a logger.(Ïñ†Áþÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(—²±±øÿÿÿÿ
+E	java:S106 "+Replace this use of System.out by a logger.(Ïñ†Áþÿÿÿÿ
+E	java:S106!"+Replace this use of System.out by a logger.(ªˆÅœøÿÿÿÿ
+E	java:S106""+Replace this use of System.out by a logger.(¿ÁËÙþÿÿÿÿ
+E	java:S106#"+Replace this use of System.out by a logger.(Ïñ†Áþÿÿÿÿ
+@	java:S106$"+Replace this use of System.out by a logger.(ÁÀçË
+E	java:S106%"+Replace this use of System.out by a logger.(Ïñ†Áþÿÿÿÿ
+E	java:S106&"+Replace this use of System.out by a logger.(ˆÕâÁÿÿÿÿÿ

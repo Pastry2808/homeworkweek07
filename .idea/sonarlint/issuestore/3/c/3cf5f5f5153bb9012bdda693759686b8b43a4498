@@ -1,0 +1,7 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ìòþÔ
+p	java:S116"VRename this field "Housenumber" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢Ðˆîúÿÿÿÿ
+m
+java:S3008"RRename this field "Council" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·†çæþÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(¢ýÅ§þÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(ÊÄ¢—

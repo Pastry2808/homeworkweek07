@@ -1,0 +1,7 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ìòþÔ
+d	java:S116"ORename this field "City" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôˆÏÞ
+h
+java:S3008"RRename this field "Country" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®—ƒ±
+?	java:S106"+Replace this use of System.out by a logger.(¶üÕA
+E	java:S106"+Replace this use of System.out by a logger.(žêý´úÿÿÿÿ

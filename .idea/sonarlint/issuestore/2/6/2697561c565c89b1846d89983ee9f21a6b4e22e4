@@ -1,0 +1,7 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ìòþÔ
+g
+java:S3008"LRename this field "F" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆÚÇÓþÿÿÿÿ
+m
+java:S3008	"RRename this field "Celsius" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§Éö¦ÿÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(×áŠ»ýÿÿÿÿ
